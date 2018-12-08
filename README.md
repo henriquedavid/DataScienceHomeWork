@@ -1,3 +1,3 @@
 # Data Science Homework
 
-This is an activity about analyse data.
+This is an activity about data analysis.
